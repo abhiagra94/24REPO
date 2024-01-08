@@ -1,0 +1,32 @@
+{
+	"name": "trigger_9_40",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Started",
+		"pipelines": [
+			{
+				"pipelineReference": {
+					"referenceName": "pipeline1",
+					"type": "PipelineReference"
+				}
+			}
+		],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Day",
+				"interval": 1,
+				"startTime": "2024-01-02T16:01:00",
+				"timeZone": "India Standard Time",
+				"schedule": {
+					"minutes": [
+						40
+					],
+					"hours": [
+						21
+					]
+				}
+			}
+		}
+	}
+}

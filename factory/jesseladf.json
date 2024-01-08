@@ -1,0 +1,9 @@
+{
+	"name": "jesseladf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7bb525a0-20e6-4f8a-b142-acf7d598e3b6",
+		"tenantId": "6472ea3a-825c-4d55-88ee-f33716b13bc9"
+	}
+}
